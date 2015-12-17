@@ -1,0 +1,16 @@
+{
+  "osx" : {
+    "title": "Team Union Square",
+    "background": "assets/osx/installer.png",
+    "icon": "assets/osx/icon.icns",
+    "icon-size": 80,
+    "contents": [
+      { "x": 438, "y": 244, "type": "link", "path": "/Applications" },
+      { "x": 152, "y": 244, "type": "file" }
+    ]
+  },
+  "win" : {
+    "title" : "Team Union Square",
+    "icon" : "assets/win/icon.ico"
+  }
+}
